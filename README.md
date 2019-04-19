@@ -61,6 +61,6 @@ Laukiame **Pull request** su siūlomais pakeitimais arba **Issue** su Jūsų min
 
 [Kandidato internetinė svetainė (https://andriukaitis2019.lt)](https://andriukaitis2019.lt)
 
-[labas@andriukaitis2019.lt](labas@andriukaitis2019.lt)
+[labas@andriukaitis2019.lt](mailto:labas@andriukaitis2019.lt)
 
-Media: [media@andriukaitis2019.lt](media@andriukaitis2019.lt)
+Media: [media@andriukaitis2019.lt](mailto:media@andriukaitis2019.lt)
