@@ -1,3 +1,5 @@
+![Vytenis Povilas Andriukaitis](https://andriukaitis2019.lt/wp-content/uploads/2019/04/cover_blue_red.jpg)
+
 ### Kandidato į Lietuvos Respublikos Prezidentus 
 ### Vytenio Povilo Andriukaičio rinkimų programos gairės
 ## LIETUVA GALI
@@ -18,3 +20,47 @@ Nors per pastaruosius kelerius metus Lietuvos ekonomika augo gana tolygiai, did�
 * puoselėjanti santarvę, tautinę kultūrą, papročius, kalbą, gerbianti tautines bendrijas;
 * vykdanti Konstituciją;
 * ginanti taiką ir siekianti gerų santykių su kaimynais, sparčiai auganti lygiavertė ES ir NATO narė, atsakingai vykdanti JT įsipareigojimus.
+
+---
+
+### Programa:
+
+[Lietuva gali įgalinti visuomenę!](IGALINTI_VISUOMENE.md)
+
+[Lietuva gali perkurti ekonominius santykius!](EKONOMINIU_SANTYKIU_PERKURIMAS.md)
+
+[Lietuva gali užtikrinti socialinį teisingumą visiems!](SOCIALINIS_TEISINGUMAS_VISIEMS.md)
+
+[Lietuva gali rūpintis darnia plėtra!](DARNI_PLETRA.md)
+
+[Lietuva gali būti veržli ir telkianti ES ateities kūrimui ir užsienio politikai!](6TAS_SCENARIJUS_EUROPAI.md)
+
+[Lietuva gali aktyviai dalyvauti užsienio politikoje!](UZSIENIO_POLITIKA.md)
+
+[Lietuva gali užtikrinti visa aprėpiantį Lietuvos saugumą!](SAUGUMAS.md)
+
+[#LietuvaGali](LIETUVA_GALI.md)
+
+---
+
+[Pilna programa (PDF)](https://andriukaitis2019.lt/wp-content/uploads/2019/04/Andriukaitis-LietuvaGali-Programa.pdf)
+
+---
+
+### Instrukcija:
+
+`Rengiama...`
+
+**Tie kas mokate dirbti su GitHub:**
+
+Laukiame **Pull request** su siūlomais pakeitimais arba **Issue** su Jūsų mintimis.
+
+---
+
+### Kontaktai:
+
+[Kandidato internetinė svetainė (https://andriukaitis2019.lt)](https://andriukaitis2019.lt)
+
+[labas@andriukaitis2019.lt](labas@andriukaitis2019.lt)
+
+Media: [media@andriukaitis2019.lt](media@andriukaitis2019.lt)
