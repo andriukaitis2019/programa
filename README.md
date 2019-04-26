@@ -49,7 +49,11 @@ Nors per pastaruosius kelerius metus Lietuvos ekonomika augo gana tolygiai, did�
 
 ### Instrukcija:
 
-`Rengiama...`
+## [Registracija GitHub platformoje](INSTRUKCIJA_1_REGISTRACIJA_GITHUB.md)
+
+## [Pateikti pakeitimų programai paketa](INSTRUKCIJA_2_PAKEITIMU_PROGRAMOJE_SIULYMAS.md)
+
+## [Pasidalinti mintimis apie programą](INSTRUKCIJA_3_MINCIU_PASIDALINIMO.md)
 
 **Tie kas mokate dirbti su GitHub:**
 
